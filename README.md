@@ -1,5 +1,5 @@
 # simple-deploy
-Deploy a node app using nginx and systemd (i.e. connect a node app running on a local port to a domain and handle app relaunch on system restart and crash)
+Deploy a node app using nginx and systemd (i.e. connect a node app running on a local port to a domain and handle app relaunch on system restart or app crash)
 
 Plus some extra scripts to undeploy and install/uninstall a service (if that's all you need).
 
